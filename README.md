@@ -12,9 +12,9 @@ Feel free to open an issue or drop a message — I’m always up for making it b
 
 ---
 
-### 🌐 Live Demo (Coming Soon)
+### 🌐 Live Demo 
 
-You’ll soon be able to try it directly on my website:  
-🔗 **[heymahodaye.site](https://heymahodaye.site)** — _going live soon!_
+You you can try it now directly on my website:  
+🔗 **[heymahodaye.site](https://heymahodaye.site)** — _enjoyy!_
 
 ---
